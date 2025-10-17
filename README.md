@@ -3,7 +3,6 @@
 ## Student Details
 - **Full Name:** `Tabrez Anwar`
 - **CCID:** `tabrez1`
---
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable. 
